@@ -74,9 +74,9 @@ android {
     buildToolsVersion rootProject.ext.buildToolsVersion
     compileSdk rootProject.ext.compileSdkVersion
 
-    namespace "com.passkey"
+    namespace "com.google.credentialmanager.sample"
     defaultConfig {
-        applicationId "com.passkey"
+        applicationId "com.google.credentialmanager.sample"
         minSdkVersion rootProject.ext.minSdkVersion
         targetSdkVersion rootProject.ext.targetSdkVersion
         versionCode 1

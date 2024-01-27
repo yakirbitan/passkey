@@ -1,4 +1,4 @@
-package com.passkey
+package com.google.credentialmanager.sample
 
 import com.facebook.react.ReactActivity
 import com.facebook.react.ReactActivityDelegate

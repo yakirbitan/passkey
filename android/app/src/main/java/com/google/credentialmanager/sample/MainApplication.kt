@@ -1,4 +1,4 @@
-package com.passkey
+package com.google.credentialmanager.sample
 
 import android.app.Application
 import com.facebook.react.PackageList
